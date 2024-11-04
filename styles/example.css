@@ -14,5 +14,5 @@
     grid-template-rows: 100px 100px 100px;
     grid-gap: 20px;
 
-    grid-auto-flow: row;
+    grid-auto-flow: column;
 }
