@@ -15,7 +15,12 @@
     grid-gap: 20px;
 
     justify-items: start;
-    align-items: start;
+    align-items: stretch;
     /* align-items: end; */
     /* align-items: center; */
+}
+
+.grid > div:nth-child(6){
+    justify-self: end;
+    align-self: center;
 }
