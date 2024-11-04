@@ -10,7 +10,9 @@
 
 .grid{
     display: grid;
-    grid-template-columns: minmax(100px, 500px) 100px 100px 100px;
-    grid-template-rows: 100px minmax(100px, auto) 100px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px 100px;
     grid-gap: 20px;
+
+    grid-auto-flow: row;
 }
