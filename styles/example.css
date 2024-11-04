@@ -16,6 +16,5 @@
 
 
 .grid > div:nth-child(1){
-    grid-column-start: 2;
-    grid-column-end: 4;
+    grid-column: 2/4;
 }
