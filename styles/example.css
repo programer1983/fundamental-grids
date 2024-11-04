@@ -12,6 +12,7 @@
     display: grid;
     grid-template-columns: 100px 200px 100px;
     grid-template-rows: 100px 100px 100px;
-    grid-column-gap: 30px;
-    grid-row-gap: 20px;
+    /* grid-column-gap: 30px;
+    grid-row-gap: 20px; */
+    grid-gap: 50px 20px;
 }
