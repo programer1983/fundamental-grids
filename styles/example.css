@@ -10,7 +10,7 @@
 
 .grid{
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-columns: 200px 1fr 1fr;
     grid-template-rows: 100px 100px 100px;
     grid-gap: 50px 20px;
 }
