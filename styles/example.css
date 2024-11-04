@@ -7,3 +7,9 @@
     font-family: sans-serif;
     color: #fff;
 }
+
+.grid{
+    display: grid;
+    grid-template-columns: 100px 200px 100px;
+    
+}
